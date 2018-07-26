@@ -1,3 +1,5 @@
+This is a test of the auto merge bot
+
 Based on [qiangxue/golang-restful-starter-kit](https://github.com/qiangxue/golang-restful-starter-kit)
 
 # Go RESTful Application Starter Kit
