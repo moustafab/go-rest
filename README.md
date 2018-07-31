@@ -1,4 +1,4 @@
-This is a test of the auto merge bot
+This is a test of the auto merge bots
 
 Based on [qiangxue/golang-restful-starter-kit](https://github.com/qiangxue/golang-restful-starter-kit)
 
